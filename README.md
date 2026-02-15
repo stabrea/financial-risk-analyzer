@@ -1,3 +1,5 @@
+![CI](https://github.com/stabrea/financial-risk-analyzer/actions/workflows/ci.yml/badge.svg)
+
 # Financial Risk Analyzer
 
 A portfolio risk analysis toolkit that uses Monte Carlo simulation and statistical methods to quantify investment risk. Built for analyzing multi-asset portfolios with configurable parameters, producing detailed reports and visualizations.

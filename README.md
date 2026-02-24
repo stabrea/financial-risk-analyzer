@@ -34,7 +34,7 @@ An HTML report (`risk_report.html`) combines all metrics and charts into a singl
 
 ```bash
 # Clone the repository
-git clone https://github.com/taofikbishi/financial-risk-analyzer.git
+git clone https://github.com/stabrea/financial-risk-analyzer.git
 cd financial-risk-analyzer
 
 # Create virtual environment
